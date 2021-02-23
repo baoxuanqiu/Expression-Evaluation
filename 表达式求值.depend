@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1580828415 source:c:\codeblocks\表达式求值\main.cpp
+	<stdio.h>
+	"aa.h"
+
+1580549778 source:c:\codeblocks\表达式求值\queue.cpp
+	<stdio.h>
+	<stdlib.h>
+	"aa.h"
+	<assert.h>
+
+1580802977 c:\codeblocks\表达式求值\aa.h
+
+1580825600 source:c:\codeblocks\表达式求值\r_w_file.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1580718874 source:c:\codeblocks\表达式求值\stack.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<assert.h>
+	"aa.h"
+
+1580828244 source:c:\codeblocks\表达式求值\stack_queue.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"aa.h"
+	<math.h>
+
+1580724649 source:c:\codeblocks\表达式求值\stack1.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<assert.h>
+	"aa.h"
+
